@@ -1,6 +1,8 @@
 (Fat Cats has no affiliation with Yoon Jeong-eun (Claire Luvcat) or the Kittisaurus brand of which the character of DD is lifted from.)
 
 ### 디디 (DD) [dun-dun] n.
-<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/130649420?s=400&u=5a2d69d1490b67f515f24f25492d8b99ff0b14dc&v=4">
+<img align="left" width="200" height="150" src="https://github.com/user-attachments/assets/e6e68ea8-5db5-4d46-939d-f8701299640b">
+
 1. A cat that appears to be very big, but consists of mostly fur.<br />
 2. A beautiful and intelligent cat.
+
